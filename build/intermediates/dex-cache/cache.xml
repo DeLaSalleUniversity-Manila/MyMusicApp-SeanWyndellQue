@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/pre-dexed/debug/classes-b3b28612169ab998a91d294f526af1aef4856752.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/pre-dexed/debug/classes-521d7199fedc01bf7bd7edbc8df4dba84e7c0327.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b85e76bf123a6e3c624217f07c4e261cfb9a4317.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4c8f2873fc6afe497ef689af05e6172e38db8893.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/AndroidActivities/mymusicapp/app/build/intermediates/pre-dexed/debug/classes-b2f1129cbe976c7da0ba970cbfef22e748a9452a.jar" />
+    </item>
+
+</items>
